@@ -48,7 +48,7 @@ Relationships: an Airport has many many Gates and many Flights as the origin or 
 ```
 aviation-app/
 ├── backend/          # Spring Boot API
-│   ├── src/main/java/com/gracie/aviation/
+│   ├── src/main/java/com/patrick/aviation/
 │   │   ├── model/         # Airport, Airline, Gate, Flight, FlightStatus
 │   │   ├── repository/    # Spring Data JPA repositories
 │   │   ├── service/       # Business logic
